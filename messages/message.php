@@ -15,6 +15,7 @@ return [
         'hu',
         'it',
         'kz',
+        'lo',
         'lt',
         'nl',
         'pt-BR',
