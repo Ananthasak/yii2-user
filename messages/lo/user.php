@@ -173,7 +173,7 @@ return [
     'Request new confirmation message' => 'ຮ້ອງຂໍຂໍ້ຄວາມການຢັ້ງຢືນໃໝ່',
     'Reset your password' => 'ຣີເຊັດລະຫັດຜ່ານຂອງທ່ານໃໝ່',
     'Save' => 'ບັນທືກ',
-    'Sign in' => 'ເຂົ້າສູ່ລະບົບ',
+    'Sign in' => 'ຊື່ຂອງທ່ານ',
     'Sign up' => 'ລົງທະບຽນ',
     'Something went wrong and your account has not been confirmed.' => 'ມີບາງຢ່າງບໍ່ຖືກຕ້ອງແລະບັນຊີຂອງທ່ານຍັງບໍ່ໄດ້ຢັ້ງຢືນ',
     'Thank you for signing up on {0}' => 'ຂອບໃຈສຳຫຼັບການລົງທະບຽນໃນ {0}',
